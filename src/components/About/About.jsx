@@ -52,7 +52,7 @@ const About = () => {
           
           //  href="https://drive.google.com/file/d/1HfhF4O4ISuVIj2FDq63UwkHbDVwwOfaM/view?usp=sharing"
            // href="https://drive.google.com/file/d/18D_iMdR-8Ldp1KSosYnum0lCFzoPzI72/view?usp=drive_link"
-            href="https://drive.google.com/drive/folders/1rY_SiQELc6l3j4Y__dnGOPvmjBmCmwn_?usp=sharing"
+            href="https://drive.google.com/file/d/1PAfAvIrxxXSySubQdY82oG6FU4fcc-Sw/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
