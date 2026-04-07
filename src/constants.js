@@ -69,6 +69,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import EBookStoreLogo from './assets/work_logo/EBookStore.png';
+import SmartStationaryLogo from './assets/work_logo/SmartStationary.png';
 
 
 export const SkillsInfo = [
@@ -245,17 +246,17 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "CS Prep",
+      title: "SmartStationery (Inventory & Sales Management System)",
       description:`SmartStationery is a full-stack inventory and business management system designed to streamline daily operations of a stationery shop.
       It is built as a production-ready application that handles everything from stock management to billing, user roles, and financial tracking.
       The system enables administrators to manage inventory, monitor sales and purchases, track expenses, and generate business insights through a centralized dashboard. It also supports staff-level access with restricted permissions, ensuring secure and controlled operations within a real-world business environment.
       On the backend, the application is powered by ASP.NET Core Web API with a clean and scalable architecture using Repository and Unit of Work patterns. Secure authentication is implemented using ASP.NET Identity and JWT tokens, allowing role-based access control between admin and staff users. The system exposes well-structured RESTful APIs for handling core business processes such as inventory tracking, sales transactions, purchase management, returns, and reporting.
       The frontend is designed with a strong focus on usability and performance, providing a clean and responsive interface for managing business workflows efficiently. It integrates seamlessly with the backend through a centralized API layer, ensuring consistent data handling, error management, and optimized user experience.
       The application also includes robust validation, centralized error handling, and environment-based configuration, making it deployment-ready and scalable for real-world usage.`,
-      image: csprepLogo,
+      image: SmartStationaryLogo,
       tags: ["ASP.NET Core Web API", "C#", "SQL Server", "Entity Framework Core", "LINQ", "JWT Authentication", "JavaScript","React"],
       github: "#",
-      webapp: "https://shivam-patil.vercel.app/",
+      webapp: "https://smartstationery.vercel.app/",
     },
     /*{
       id: 2,
