@@ -247,7 +247,7 @@ export const SkillsInfo = [
     {
       id: 1,
       title: "SmartStationery (Inventory & Sales Management System)",
-      description:`SmartStationery is a complete inventory and business management system. It manages stock, billing, user roles, and finances. Administrators can control inventory, sales, expenses, and get insights from a centralized dashboard. Staff access is limited for security. The backend uses ASP.NET Core Web API and secure authentication with roles. It has RESTful APIs for inventory tracking, sales, and reporting. The user-friendly frontend ensures smooth operation and integrates well with the backend. The system features validation and error handling, making it ready for real-world use.`,
+      description:`Developed a full-stack business management application for inventory, sales, purchases, and expense tracking with role-based authentication for admin and staff. Implemented RESTful APIs, secure JWT authentication, and optimized data handling using Entity Framework Core and SQL Server.`,
       image: SmartStationaryLogo,
       tags: ["ASP.NET Core Web API", "C#", "SQL Server", "Entity Framework Core", "LINQ", "JWT Authentication", "JavaScript","React"],
       github: "#",
