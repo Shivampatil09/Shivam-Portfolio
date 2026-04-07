@@ -45,7 +45,7 @@ const About = () => {
             I build scalable and
             responsive web applications using JavaScript, Bootstrap,
             and Entity Framework, with strong understanding of 
-            RESTful APIs and clean architecture principles.
+            RESTful APIs and clean architecture principles. hii
           </p>
           {/* Resume Button */}
           <a
