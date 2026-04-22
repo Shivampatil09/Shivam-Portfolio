@@ -211,7 +211,7 @@ export const SkillsInfo = [
       date: "2022 - 2025",
       grade: "9.18 CGPA",
       desc: "I completed my Bachelor of Computer Applications (BCA), where I built a strong foundation in programming, database management, and web development. During my studies, I worked on core subjects like Data Structures, Object-Oriented Programming, and Database Management Systems, and applied these concepts by developing real-world projects using .NET technologies.",
-      degree: "Bachelor of Science - BSC (Computer Science)",
+      degree: "Bachelor of Computer Applications - BCA",
     },
     {
       id: 2,
